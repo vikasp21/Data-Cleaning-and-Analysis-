@@ -1,2 +1,2 @@
-# Data-Cleaning-and-Analysis-
-Data cleaning, preprocessing, analysis, and visualization 
+# Data analysis and prediction projects 
+Data cleaning, preprocessing, analysis, visualizations, modeling, predictions, machine learning. 
